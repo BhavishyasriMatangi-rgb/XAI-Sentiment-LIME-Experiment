@@ -141,7 +141,7 @@ No external dataset required. The experiment uses **15 hand-crafted social media
 
 This experiment is the empirical contribution of the following survey paper:
 
-> Matangi, B. (2026). *Explainability in Transformer-Based Sentiment Analysis: A Survey of Methods, Applications, and Open Challenges.* Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Matangi, B. (2026). *Explainability in Transformer-Based Sentiment Analysis: A Survey of Methods, Applications, and Open Challenges.* Zenodo. https://doi.org/10.5281/zenodo.20238035
 
 *(Replace XXXXXXX with your actual Zenodo DOI after publishing)*
 
